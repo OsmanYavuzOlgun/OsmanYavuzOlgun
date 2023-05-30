@@ -1,4 +1,4 @@
-<h3 align="center">UI developer from Turkey</h3>
+<h3 align="center">UI/Frontend developer from Turkey</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
